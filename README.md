@@ -1,3 +1,1 @@
-#BG Changer
-color feature
-button feature
+Added readme.md file
